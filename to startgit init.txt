@@ -1,0 +1,9 @@
+to start:git init
+
+to send multiple files:git add .
+
+to send single files(file name or extensions):git add index.html
+
+commit:git commit-m"commit relate message"
+
+conflict:
